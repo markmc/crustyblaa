@@ -6,6 +6,7 @@ SITENAME = u"Crusty Blaa - Mark McLoughlin's Blog"
 SITEURL = ''
 
 PATH = 'content'
+THEME = './theme'
 
 TIMEZONE = 'Europe/Dublin'
 
@@ -27,7 +28,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/markmc_'),)
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
