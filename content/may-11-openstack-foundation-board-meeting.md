@@ -203,4 +203,4 @@ advise from Robyn
 Bergeron](https://twitter.com/robynbergeron/status/466678776168865792):
 
 [![Keep Calm and Ride The Drama
-Llama](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-ride-the-drama-llama.png)](http://www.keepcalm-o-matic.co.uk/p/keep-calm-and-ride-the-drama-llama/)
+Llama](https://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-ride-the-drama-llama.png)](http://www.keepcalm-o-matic.co.uk/p/keep-calm-and-ride-the-drama-llama/)
