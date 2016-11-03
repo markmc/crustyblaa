@@ -1,7 +1,7 @@
 Title: Happy To Be Bored
 Date: 2004-06-11 16:50
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: happy-to-be-bored
 Status: published
 

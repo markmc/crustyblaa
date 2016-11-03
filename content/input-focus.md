@@ -1,7 +1,7 @@
 Title: Input Focus
 Date: 2005-06-14 12:16
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: input-focus
 Status: published
 

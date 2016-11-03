@@ -1,7 +1,7 @@
 Title: Fedora 16 OpenStack Test Day
 Date: 2011-10-20 06:03
 Author: markmc
-Category: openstack
+Tags: OpenStack, Fedora
 Slug: fedora-16-openstack-test-day
 Status: published
 

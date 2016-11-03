@@ -1,7 +1,7 @@
 Title: Session Migration With GDM
 Date: 2005-04-26 17:59
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: session-migration-with-gdm
 Status: published
 

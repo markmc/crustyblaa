@@ -1,7 +1,7 @@
 Title: Dublin Marathon
 Date: 2007-10-30 17:40
 Author: markmc
-Category: marathon, running
+Tags: Personal
 Slug: dublin-marathon
 Status: published
 

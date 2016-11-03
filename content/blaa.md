@@ -1,7 +1,7 @@
 Title: Blaa
 Date: 2004-06-08 07:35
 Author: markmc
-Category: General
+Tags: Random
 Slug: blaa
 Status: published
 

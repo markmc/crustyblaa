@@ -1,7 +1,7 @@
 Title: If Knowledge is Power ...
 Date: 2011-01-16 10:04
 Author: markmc
-Category: General
+Tags: Open Source
 Slug: if-knowledge-is-power
 Status: published
 

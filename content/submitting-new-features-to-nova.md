@@ -1,7 +1,7 @@
 Title: Submitting new features to Nova
 Date: 2012-08-20 11:27
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: submitting-new-features-to-nova
 Status: published
 

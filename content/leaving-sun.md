@@ -1,7 +1,7 @@
 Title: Leaving Sun
 Date: 2004-01-30 16:20
 Author: markmc
-Category: General
+Tags: Red Hat, GNOME
 Slug: leaving-sun
 Status: published
 

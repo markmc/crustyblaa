@@ -1,7 +1,7 @@
 Title: Rugby Weekend
 Date: 2005-02-28 10:03
 Author: markmc
-Category: General
+Tags: Personal
 Slug: rugby-weekend
 Status: published
 

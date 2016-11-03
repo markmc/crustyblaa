@@ -1,7 +1,7 @@
 Title: LDAP Notifications
 Date: 2006-01-24 04:18
 Author: markmc
-Category: General
+Tags: Fedora
 Slug: ldap-notifications
 Status: published
 

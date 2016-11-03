@@ -1,7 +1,7 @@
 Title: The Future of Incubation and Core
 Date: 2012-11-17 17:53
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: the-future-of-incubation-and-core
 Status: published
 

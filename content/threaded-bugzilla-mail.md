@@ -1,7 +1,7 @@
 Title: Threaded bugzilla mail
 Date: 2004-06-05 12:24
 Author: markmc
-Category: General
+Tags: Red Hat
 Slug: threaded-bugzilla-mail
 Status: published
 

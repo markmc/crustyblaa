@@ -1,7 +1,7 @@
 Title: GNOME Startup Time Analysis
 Date: 2005-10-05 04:42
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: gnome-startup-time-analysis
 Status: published
 

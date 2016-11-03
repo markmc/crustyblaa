@@ -1,7 +1,7 @@
 Title: Who Wrote Folsom
 Date: 2012-09-28 07:19
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: who-wrote-folsom
 Status: published
 

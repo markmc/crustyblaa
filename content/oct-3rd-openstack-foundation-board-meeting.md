@@ -1,7 +1,7 @@
 Title: Oct 3rd OpenStack Foundation Board Meeting
 Date: 2013-10-03 21:36
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: oct-3rd-openstack-foundation-board-meeting
 Status: published
 

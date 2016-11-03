@@ -1,7 +1,7 @@
 Title: St. Patrick's Day
 Date: 2004-03-17 23:45
 Author: markmc
-Category: General
+Tags: Personal
 Slug: st-patricks-day
 Status: published
 

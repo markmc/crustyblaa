@@ -1,7 +1,7 @@
 Title: Terminal Services Prototype
 Date: 2004-06-03 18:27
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: terminal-services-prototype
 Status: published
 

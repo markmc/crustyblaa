@@ -1,7 +1,7 @@
 Title: Design By Scribble
 Date: 2005-05-13 10:37
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: design-by-scribble
 Status: published
 

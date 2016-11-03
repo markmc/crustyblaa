@@ -1,7 +1,7 @@
 Title: Stateless Linux Cached Client
 Date: 2006-06-08 05:44
 Author: markmc
-Category: General
+Tags: GNOME, Fedora
 Slug: stateless-linux-cached-client
 Status: published
 

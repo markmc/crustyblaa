@@ -1,7 +1,7 @@
 Title: Memory Usage Debugging
 Date: 2005-05-10 12:43
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: memory-usage-debugging
 Status: published
 

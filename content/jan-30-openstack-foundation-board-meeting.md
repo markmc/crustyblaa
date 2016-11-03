@@ -1,7 +1,7 @@
 Title: Jan 30 OpenStack Foundation Board Meeting
 Date: 2014-02-07 16:41
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: jan-30-openstack-foundation-board-meeting
 Status: published
 

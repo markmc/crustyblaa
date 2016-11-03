@@ -1,7 +1,7 @@
 Title: Marketing Silliness
 Date: 2005-06-27 13:50
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: marketing-silliness
 Status: published
 

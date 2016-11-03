@@ -1,7 +1,7 @@
 Title: Random Hacker Tool #753
 Date: 2005-05-24 08:23
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: random-hacker-tool-753
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Patch Management
 Date: 2006-04-25 05:45
 Author: markmc
-Category: General
+Tags: Git
 Slug: patch-management
 Status: published
 

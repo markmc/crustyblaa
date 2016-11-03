@@ -1,7 +1,7 @@
 Title: Google Map Pedometer
 Date: 2005-12-14 17:33
 Author: markmc
-Category: General
+Tags: Personal
 Slug: google-map-pedometer
 Status: published
 

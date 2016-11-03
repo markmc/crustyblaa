@@ -1,7 +1,7 @@
 Title: February 25, 2004
 Date: 2004-02-25 08:52
 Author: markmc
-Category: General
+Tags: Red Hat, GNOME
 Slug: february-25-2004
 Status: published
 

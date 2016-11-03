@@ -1,7 +1,7 @@
 Title: QCOW Disk Image Format
 Date: 2006-06-21 06:23
 Author: markmc
-Category: General
+Tags: KVM
 Slug: qcow-disk-image-format
 Status: published
 

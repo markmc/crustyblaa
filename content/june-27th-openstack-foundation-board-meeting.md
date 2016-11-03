@@ -1,7 +1,7 @@
 Title: June 27th OpenStack Foundation Board Meeting
 Date: 2013-06-29 16:04
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: june-27th-openstack-foundation-board-meeting
 Status: published
 

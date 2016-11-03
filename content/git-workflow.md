@@ -1,7 +1,7 @@
 Title: Git Workflow
 Date: 2008-05-07 07:55
 Author: markmc
-Category: git
+Tags: Git
 Slug: git-workflow
 Status: published
 

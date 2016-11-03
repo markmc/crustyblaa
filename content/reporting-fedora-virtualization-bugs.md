@@ -1,8 +1,7 @@
 Title: Reporting Fedora Virtualization Bugs
 Date: 2009-01-14 20:07
 Author: markmc
-Category: fedora, virtualization
-Tags: fedora, virtualization
+Tags: Fedora, KVM
 Slug: reporting-fedora-virtualization-bugs
 Status: published
 

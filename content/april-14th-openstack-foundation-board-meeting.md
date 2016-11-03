@@ -1,7 +1,7 @@
 Title: April 14th OpenStack Foundation Board Meeting
 Date: 2013-05-25 14:44
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: april-14th-openstack-foundation-board-meeting
 Status: published
 

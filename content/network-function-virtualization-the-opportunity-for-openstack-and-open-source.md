@@ -1,7 +1,7 @@
 Title: Network Function Virtualization - The Opportunity for OpenStack and Open Source
 Date: 2014-10-02 20:28
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: network-function-virtualization-the-opportunity-for-openstack-and-open-source
 Status: published
 

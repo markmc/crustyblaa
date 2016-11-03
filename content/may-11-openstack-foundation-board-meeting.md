@@ -1,7 +1,7 @@
 Title: May 11 OpenStack Foundation Board Meeting
 Date: 2014-05-17 14:52
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: may-11-openstack-foundation-board-meeting
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Never Judge a Book by its Cover?
 Date: 2004-09-10 12:58
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: never-judge-a-book-by-its-cover
 Status: published
 

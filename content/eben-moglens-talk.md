@@ -1,7 +1,7 @@
 Title: Eben Moglen's Talk
 Date: 2006-06-08 05:04
 Author: markmc
-Category: General
+Tags: Red Hat
 Slug: eben-moglens-talk
 Status: published
 

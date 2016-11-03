@@ -1,7 +1,7 @@
 Title: Architecture Astronauts
 Date: 2005-05-09 11:04
 Author: markmc
-Category: General
+Tags: Random
 Slug: architecture-astronauts
 Status: published
 

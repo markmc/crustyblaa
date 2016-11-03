@@ -1,7 +1,7 @@
 Title: Evolution Mail Account LDAP Backend For GConf
 Date: 2005-04-14 14:30
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: evolution-mail-account-ldap-backend-for-gconf
 Status: published
 

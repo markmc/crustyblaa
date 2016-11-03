@@ -1,7 +1,7 @@
 Title: Nova DB Poking
 Date: 2012-07-31 13:37
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: nova-db-poking
 Status: published
 

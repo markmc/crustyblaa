@@ -1,7 +1,7 @@
 Title: Naked Pings
 Date: 2014-02-20 14:56
 Author: markmc
-Category: fedora, openstack
+Tags: Fedora, OpenStack, Red Hat
 Slug: naked-pings
 Status: published
 

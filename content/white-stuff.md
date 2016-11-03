@@ -1,7 +1,7 @@
 Title: White Stuff
 Date: 2004-12-07 14:11
 Author: markmc
-Category: General
+Tags: Red Hat, GNOME
 Slug: white-stuff
 Status: published
 

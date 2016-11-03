@@ -1,7 +1,7 @@
 Title: Gerrit Patch Review From The Command Line
 Date: 2011-09-25 14:28
 Author: markmc
-Category: openstack
+Tags: OpenStack, Git
 Slug: gerrit-patch-review-from-the-command-line
 Status: published
 

@@ -1,7 +1,7 @@
 Title: REST API For RHEV-M
 Date: 2010-06-21 21:44
 Author: markmc
-Category: General
+Tags: Red Hat, KVM
 Slug: rest-api-for-rhev-m
 Status: published
 

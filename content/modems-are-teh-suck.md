@@ -1,7 +1,7 @@
 Title: Modems are teh suck
 Date: 2004-02-04 18:03
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: modems-are-teh-suck
 Status: published
 

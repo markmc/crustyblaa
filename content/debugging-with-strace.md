@@ -1,7 +1,7 @@
 Title: Debugging With Strace
 Date: 2005-05-25 11:44
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: debugging-with-strace
 Status: published
 

@@ -1,7 +1,7 @@
 Title: OpenStack, Meritocracy and Diversity
 Date: 2014-01-12 22:20
 Author: markmc
-Category: General
+Tags: OpenStack, Open Source
 Slug: openstack-meritocracy-and-diversity
 Status: published
 

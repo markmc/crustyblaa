@@ -1,7 +1,7 @@
 Title: Mugshot Design Process
 Date: 2006-06-06 04:56
 Author: markmc
-Category: General
+Tags: Red Hat, GNOME
 Slug: mugshot-design-process
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Bleh
 Date: 2004-01-23 20:43
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: bleh
 Status: published
 

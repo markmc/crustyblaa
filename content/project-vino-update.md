@@ -1,7 +1,7 @@
 Title: Project Vino Update
 Date: 2004-06-21 09:58
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: project-vino-update
 Status: published
 

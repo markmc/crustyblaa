@@ -1,7 +1,7 @@
 Title: Voodoo
 Date: 2004-02-28 20:58
 Author: markmc
-Category: General
+Tags: GNOME, Programming
 Slug: voodoo
 Status: published
 

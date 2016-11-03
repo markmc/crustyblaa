@@ -1,7 +1,7 @@
 Title: Virtual networking
 Date: 2007-01-15 20:11
 Author: markmc
-Category: General
+Tags: KVM
 Slug: virtual-networking
 Status: published
 

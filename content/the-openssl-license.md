@@ -1,7 +1,7 @@
 Title: The OpenSSL License
 Date: 2004-06-11 18:46
 Author: markmc
-Category: General
+Tags: Open Source
 Slug: the-openssl-license
 Status: published
 

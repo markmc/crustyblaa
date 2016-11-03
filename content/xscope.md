@@ -1,7 +1,7 @@
 Title: xscope
 Date: 2005-07-28 17:55
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: xscope
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Heartbleed
 Date: 2014-04-10 10:04
 Author: markmc
-Category: fedora, General, openstack
+Tags: Fedora, OpenStack, Red Hat
 Slug: heartbleed
 Status: published
 

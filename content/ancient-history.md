@@ -1,7 +1,7 @@
 Title: Ancient History
 Date: 2012-07-27 11:54
 Author: markmc
-Category: git, openstack
+Tags: Git, OpenStack
 Slug: ancient-history
 Status: published
 

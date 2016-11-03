@@ -1,7 +1,7 @@
 Title: $LD_LIBRARY_PATH Update
 Date: 2004-04-07 07:05
 Author: markmc
-Category: General
+Tags: Fedora, GNOME
 Slug: ld_library_path-update
 Status: published
 

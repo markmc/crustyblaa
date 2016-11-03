@@ -1,7 +1,7 @@
 Title: Aug 6th OpenStack Foundation Board Meeting
 Date: 2013-08-08 10:25
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: aug-6th-openstack-foundation-board-meeting
 Status: published
 

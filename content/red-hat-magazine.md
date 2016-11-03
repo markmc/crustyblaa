@@ -1,7 +1,7 @@
 Title: Red Hat Magazine
 Date: 2005-10-21 03:36
 Author: markmc
-Category: General
+Tags: Red Hat
 Slug: red-hat-magazine
 Status: published
 

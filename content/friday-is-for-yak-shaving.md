@@ -1,7 +1,7 @@
 Title: Friday is for Yak Shaving
 Date: 2012-09-14 17:53
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: friday-is-for-yak-shaving
 Status: published
 

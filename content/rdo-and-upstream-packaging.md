@@ -1,7 +1,7 @@
 Title: RDO and Upstream Packaging
 Date: 2015-06-12 12:27
 Author: markmc
-Category: fedora, openstack
+Tags: Fedora, OpenStack
 Slug: rdo-and-upstream-packaging
 Status: published
 

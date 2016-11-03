@@ -1,7 +1,7 @@
 Title: Panel Upgrade Brokeness
 Date: 2004-09-16 14:52
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: panel-upgrade-brokeness
 Status: published
 

@@ -1,7 +1,7 @@
 Title: PyBlosxom
 Date: 2004-01-23 20:49
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: pyblosxom
 Status: published
 

@@ -1,7 +1,7 @@
 Title: A Certain Rocking Vuntz
 Date: 2005-02-25 11:17
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: a-certain-rocking-vuntz
 Status: published
 

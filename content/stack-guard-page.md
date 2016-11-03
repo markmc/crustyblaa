@@ -1,7 +1,7 @@
 Title: Stack Guard Page
 Date: 2005-05-11 16:41
 Author: markmc
-Category: General
+Tags: Fedora, Programming
 Slug: stack-guard-page
 Status: published
 

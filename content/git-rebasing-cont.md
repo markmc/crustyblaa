@@ -1,7 +1,7 @@
 Title: Git Rebasing (cont.)
 Date: 2011-02-26 15:25
 Author: markmc
-Category: General
+Tags: Git
 Slug: git-rebasing-cont
 Status: published
 

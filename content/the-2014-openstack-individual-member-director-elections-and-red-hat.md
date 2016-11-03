@@ -1,7 +1,7 @@
 Title: The 2014 OpenStack Individual Member Director Elections and Red Hat
 Date: 2013-12-11 17:59
 Author: markmc
-Category: openstack
+Tags: OpenStack, Red Hat
 Slug: the-2014-openstack-individual-member-director-elections-and-red-hat
 Status: published
 

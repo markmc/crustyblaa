@@ -1,7 +1,7 @@
 Title: Call for testing : 2012.2.1 tarballs
 Date: 2012-11-20 21:56
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: call-for-testing-2012-2-1-tarballs
 Status: published
 

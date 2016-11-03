@@ -1,7 +1,7 @@
 Title: Notification Icons vs. Applets
 Date: 2004-09-15 09:59
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: notification-icons-vs-applets
 Status: published
 

@@ -1,7 +1,7 @@
 Title: List moderator magic
 Date: 2004-03-31 11:14
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: list-moderator-magic
 Status: published
 

@@ -1,7 +1,7 @@
 Title: SSH, X Forwarding and Xauth
 Date: 2005-02-25 09:11
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: ssh-x-forwarding-and-xauth
 Status: published
 

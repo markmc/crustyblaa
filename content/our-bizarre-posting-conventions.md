@@ -1,7 +1,7 @@
 Title: Our Bizarre Posting Conventions
 Date: 2011-02-17 16:09
 Author: markmc
-Category: General
+Tags: Fedora, OpenStack
 Slug: our-bizarre-posting-conventions
 Status: published
 

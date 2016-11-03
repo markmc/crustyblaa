@@ -1,7 +1,7 @@
 Title: Corporate Whores
 Date: 2004-04-29 19:36
 Author: markmc
-Category: General
+Tags: Red Hat
 Slug: corporate-whores
 Status: published
 

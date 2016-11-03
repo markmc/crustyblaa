@@ -1,7 +1,7 @@
 Title: May 30th OpenStack Foundation Board Meeting
 Date: 2013-06-05 22:16
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: may-30th-openstack-foundation-board-meeting
 Status: published
 

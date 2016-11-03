@@ -1,7 +1,7 @@
 Title: Porting RHEV-M from C# to Java
 Date: 2010-04-12 06:46
 Author: markmc
-Category: General
+Tags: Red Hat, KVM
 Slug: porting-rhev-m-from-c-to-java
 Status: published
 

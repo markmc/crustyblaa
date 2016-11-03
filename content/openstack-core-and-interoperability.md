@@ -1,7 +1,7 @@
 Title: OpenStack "Core" and Interoperability
 Date: 2013-10-30 21:49
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: openstack-core-and-interoperability
 Status: published
 

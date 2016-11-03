@@ -1,7 +1,7 @@
 Title: Git Rebasing
 Date: 2011-02-23 14:01
 Author: markmc
-Category: General
+Tags: Git
 Slug: git-rebasing
 Status: published
 

@@ -1,7 +1,7 @@
 Title: February 12th OpenStack Foundation Board Meeting
 Date: 2013-02-15 17:06
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: february-12th-openstack-foundation-board-meeting
 Status: published
 

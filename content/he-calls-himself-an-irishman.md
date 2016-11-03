@@ -1,7 +1,7 @@
 Title: He Calls Himself an Irishman?
 Date: 2004-06-04 10:08
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: he-calls-himself-an-irishman
 Status: published
 

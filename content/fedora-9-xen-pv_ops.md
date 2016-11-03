@@ -1,7 +1,7 @@
 Title: Fedora 9 Xen pv_ops
 Date: 2008-02-11 10:15
 Author: markmc
-Category: kernel, pv_ops, xen
+Tags: Xen
 Slug: fedora-9-xen-pv_ops
 Status: published
 

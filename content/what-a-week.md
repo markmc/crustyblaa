@@ -1,7 +1,7 @@
 Title: What a week ...
 Date: 2005-06-04 02:49
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: what-a-week
 Status: published
 

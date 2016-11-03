@@ -1,7 +1,7 @@
 Title: GNOME SVN and jhbuild
 Date: 2007-01-02 07:20
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: gnome-svn-and-jhbuild
 Status: published
 

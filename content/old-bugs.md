@@ -1,7 +1,7 @@
 Title: Old Bugs
 Date: 2004-09-29 11:41
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: old-bugs
 Status: published
 

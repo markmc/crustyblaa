@@ -1,7 +1,7 @@
 Title: Sabayon
 Date: 2005-06-22 12:13
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: sabayon
 Status: published
 

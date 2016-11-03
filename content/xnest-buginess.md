@@ -1,7 +1,7 @@
 Title: Xnest Buginess
 Date: 2005-06-22 12:21
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: xnest-buginess
 Status: published
 

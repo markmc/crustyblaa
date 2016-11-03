@@ -1,7 +1,7 @@
 Title: First Board Meeting
 Date: 2013-01-31 23:17
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: first-board-meeting
 Status: published
 

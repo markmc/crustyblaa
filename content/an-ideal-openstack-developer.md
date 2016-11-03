@@ -1,7 +1,7 @@
 Title: An Ideal OpenStack Developer
 Date: 2014-06-06 14:49
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: an-ideal-openstack-developer
 Status: published
 

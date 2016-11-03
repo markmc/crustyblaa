@@ -1,7 +1,7 @@
 Title: RFB Protocol
 Date: 2004-02-06 18:12
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: rfb-protocol
 Status: published
 

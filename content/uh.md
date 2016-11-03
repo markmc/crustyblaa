@@ -1,7 +1,7 @@
 Title: Uh
 Date: 2004-12-22 09:29
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: uh
 Status: published
 

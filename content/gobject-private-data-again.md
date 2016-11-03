@@ -1,7 +1,7 @@
 Title: GObject Private Data (again)
 Date: 2006-01-25 13:15
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: gobject-private-data-again
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Python Exception Chaining
 Date: 2013-07-11 09:28
 Author: markmc
-Category: openstack, python
+Tags: OpenStack, Python, Programming
 Slug: python-exception-chaining
 Status: published
 

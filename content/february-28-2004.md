@@ -1,7 +1,7 @@
 Title: February 28, 2004
 Date: 2004-02-28 10:56
 Author: markmc
-Category: General
+Tags: Fedora
 Slug: february-28-2004
 Status: published
 

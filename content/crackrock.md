@@ -1,7 +1,7 @@
 Title: Crackrock
 Date: 2004-05-13 07:27
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: crackrock
 Status: published
 

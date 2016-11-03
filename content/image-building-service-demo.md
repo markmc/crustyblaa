@@ -1,7 +1,7 @@
 Title: Image Building Service Demo
 Date: 2012-12-12 11:42
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: image-building-service-demo
 Status: published
 

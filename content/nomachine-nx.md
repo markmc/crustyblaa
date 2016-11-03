@@ -1,7 +1,7 @@
 Title: NoMachine NX
 Date: 2004-07-07 08:54
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: nomachine-nx
 Status: published
 

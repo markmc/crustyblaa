@@ -1,7 +1,7 @@
 Title: My OpenStack Foundation Board Candidacy
 Date: 2012-08-20 09:45
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: my-openstack-foundation-board-candidacy
 Status: published
 

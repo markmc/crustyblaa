@@ -1,7 +1,7 @@
 Title: Bizarro
 Date: 2005-06-25 08:38
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: bizarro
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Mar 4 OpenStack Foundation Board Meeting
 Date: 2014-03-12 00:52
 Author: markmc
-Category: openstack, openstack-foundation-board-meeting
+Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: mar-4-openstack-foundation-board-meeting
 Status: published
 

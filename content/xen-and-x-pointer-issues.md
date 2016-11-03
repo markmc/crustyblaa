@@ -1,7 +1,7 @@
 Title: Xen and X Pointer Issues
 Date: 2006-09-29 05:46
 Author: markmc
-Category: General
+Tags: Xen
 Slug: xen-and-x-pointer-issues
 Status: published
 

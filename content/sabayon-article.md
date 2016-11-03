@@ -1,7 +1,7 @@
 Title: Sabayon article
 Date: 2005-06-17 09:19
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: sabayon-article
 Status: published
 

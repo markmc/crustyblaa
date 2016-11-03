@@ -1,7 +1,7 @@
 Title: Benchmarking Login Time Improvements
 Date: 2005-12-11 11:25
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: benchmarking-login-time-improvements
 Status: published
 

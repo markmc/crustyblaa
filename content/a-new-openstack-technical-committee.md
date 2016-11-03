@@ -1,7 +1,7 @@
 Title: A New OpenStack Technical Committee
 Date: 2013-10-18 10:24
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: a-new-openstack-technical-committee
 Status: published
 

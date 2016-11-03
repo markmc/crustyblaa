@@ -1,7 +1,7 @@
 Title: Vino
 Date: 2004-02-05 10:27
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: vino
 Status: published
 

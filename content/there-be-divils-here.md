@@ -1,7 +1,7 @@
 Title: There be divils here
 Date: 2004-03-11 11:28
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: there-be-divils-here
 Status: published
 

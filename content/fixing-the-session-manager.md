@@ -1,7 +1,7 @@
 Title: Fixing the Session Manager
 Date: 2004-09-15 08:31
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: fixing-the-session-manager
 Status: published
 

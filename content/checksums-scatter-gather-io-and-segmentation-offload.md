@@ -1,7 +1,7 @@
 Title: Checksums, Scatter-Gather I/O and Segmentation Offload
 Date: 2008-05-28 09:09
 Author: markmc
-Category: kernel, kvm, virtio, virtualization
+Tags: KVM
 Slug: checksums-scatter-gather-io-and-segmentation-offload
 Status: published
 

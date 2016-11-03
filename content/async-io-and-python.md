@@ -1,7 +1,7 @@
 Title: Async I/O and Python
 Date: 2013-06-04 16:28
 Author: markmc
-Category: openstack, python
+Tags: OpenStack, Python
 Slug: async-io-and-python
 Status: published
 

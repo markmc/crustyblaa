@@ -1,7 +1,7 @@
 Title: cfg and argparse sub-commands
 Date: 2012-11-26 16:03
 Author: markmc
-Category: openstack
+Tags: OpenStack
 Slug: cfg-and-argparse-sub-commands
 Status: published
 

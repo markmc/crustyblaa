@@ -1,7 +1,7 @@
 Title: Runtime Linker Voodoo
 Date: 2004-04-06 21:33
 Author: markmc
-Category: General
+Tags: Fedora, Programming, GNOME
 Slug: runtime-linker-voodoo
 Status: published
 

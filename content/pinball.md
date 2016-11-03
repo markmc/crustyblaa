@@ -1,7 +1,7 @@
 Title: Pinball
 Date: 2004-08-23 09:07
 Author: markmc
-Category: General
+Tags: Personal
 Slug: pinball
 Status: published
 

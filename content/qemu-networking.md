@@ -1,7 +1,7 @@
 Title: QEMU Networking
 Date: 2007-01-09 12:07
 Author: markmc
-Category: General
+Tags: KVM
 Slug: qemu-networking
 Status: published
 

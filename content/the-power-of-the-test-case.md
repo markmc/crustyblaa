@@ -1,7 +1,7 @@
 Title: The Power Of The Test Case
 Date: 2004-06-10 19:34
 Author: markmc
-Category: General
+Tags: GNOME
 Slug: the-power-of-the-test-case
 Status: published
 
