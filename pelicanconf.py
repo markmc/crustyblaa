@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/markmc_'),)
+SOCIAL = (('markmc_', 'http://twitter.com/markmc_'),)
 
 DEFAULT_PAGINATION = 5
 
