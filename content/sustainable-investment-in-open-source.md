@@ -270,7 +270,7 @@ We only recently started running this survey, and we will do one every
 release cycle. So far, we’ve had over 70 responses, so that’s a pretty
 good start.
 
-![Level of Invesment](http://chart.apis.google.com/chart?cht=p&chs=500x250&chdl=Not+enough%7CAbout+right%7CToo+much%7CDon%27t+know&chl=16.7%25%7C79.2%25&chco=3366CC%7CDC3912%7CFF9900%7C109618&chp=0.436326388889&chtt=Level+of+Investment&chts=000000,24&chd=t:12,57,1,2 "Level of Investment")
+![Level of Invesment](https://chart.apis.google.com/chart?cht=p&chs=500x250&chdl=Not+enough%7CAbout+right%7CToo+much%7CDon%27t+know&chl=16.7%25%7C79.2%25&chco=3366CC%7CDC3912%7CFF9900%7C109618&chp=0.436326388889&chtt=Level+of+Investment&chts=000000,24&chd=t:12,57,1,2 "Level of Investment")
 
 The really interesting judgment call we need to make is what
 percentage of “just right” answers do we want to aim for? It would
