@@ -135,9 +135,9 @@ discussion never did go into any particular detail on where we've
 witnessed the problems we were discussing. From my own perspective, it
 was clear that much of frustration was as a result of how the
 [Ciao](https://clearlinux.org/ciao) and
-[Gluon](https://wiki.openstack.org/wiki/Gluon), but we're failing to
-learn anything significant from those experiences by not talking about
-them in detail.
+[Gluon](https://wiki.openstack.org/wiki/Gluon) projects have been
+received, but we're failing to learn anything significant from those
+experiences by not talking about them in detail.
 
 By the end of the discussion, we had agree to collaborate on a
 concrete description of specific problem areas, the questions they
