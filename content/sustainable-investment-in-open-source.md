@@ -47,8 +47,8 @@ to something equally simple - your investment in a project should be
 directly related to what the business needs from the project. I think
 it’s important to frame it this way, because if the business doesn’t
 have a good have a good understanding in the value of an investment,
-the business is going to be quick to continue that investment when it
-is looking at how to make the best use of its resources.
+the business is going to be quick to discontinue that investment when
+it is looking at how to make the best use of its resources.
 
 # Anti-Patterns
 
