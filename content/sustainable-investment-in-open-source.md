@@ -20,7 +20,7 @@ companies to take a much more realistic view on this subject, and my
 hope is that this will lead to a much more sustainable level of
 investment in the project.
 
-# My Story
+## My Story
 
 My views on this question are so heavily influenced by an early
 personal experience, that I’m tempted to talk at length about my own
@@ -31,7 +31,7 @@ work on open-source? What value would be open-source work bring to my
 employer? I spent a lot of time thinking about this, even after I
 found myself employed to work full time on open-source.
 
-# My Employer
+## My Employer
 
 An interesting thing happened. Because I had spent a good deal of time
 thinking about the value of my own open-source work, I was well-placed
@@ -40,7 +40,7 @@ open-source projects. It quickly became apparent to me then - and is
 still apparent to me now - that this fundamental question is fraught
 with difficulty, and most people struggle greatly to answer it.
 
-# Investment vs Business Needs
+## Investment vs Business Needs
 
 Over the years, I’ve boiled my answer to this simple-sounding question
 to something equally simple - your investment in a project should be
@@ -50,13 +50,13 @@ have a good have a good understanding in the value of an investment,
 the business is going to be quick to discontinue that investment when
 it is looking at how to make the best use of its resources.
 
-# Anti-Patterns
+## Anti-Patterns
 
 What do I mean about an investment that isn’t directly related to the
 needs of the business? Let me dig into that a little bit with some
 anti-patterns.
 
-## Focus on Features
+### Focus on Features
 
 First, features. Or, [as Thierry Carrez puts it, “tactical
 contributions”](https://fnords.wordpress.com/2011/09/28/the-next-step-for-openstack/). Companies
@@ -76,7 +76,7 @@ software project. They are the basis through which new features get
 added. You must invest in ensuring that this is happening in this
 project whose future you care about.
 
-## The Donation
+### The Donation
 
 This anti-pattern is about our choice of language, and how it affects
 our thinking. People often talk about “donating” code to a
@@ -84,7 +84,7 @@ project. Calling it a donation suggests you have a feeling that
 the return on your investment is quite intangible. How long will you
 continue with these “donations”?
 
-## For Recognition
+### For Recognition
 
 Related, it’s often quite clear that a major motivation for companies
 investing in open-source is the recognition they receive in doing
@@ -99,7 +99,7 @@ marketing value. We don’t want investment in open-source projects to
 be made out marketing budgets, since that’s possibly the least
 reliable source of funding!
 
-## "100% Upstream"
+### "100% Upstream"
 
 Not so long ago, when companies were falling over themselves to
 demonstrate their commitment to OpenStack, we saw an interesting
@@ -124,7 +124,7 @@ There are some exceptions to this, even within Red Hat. But as a
 systematic way of investing in a project … it’s unlikely to be
 sustainable.
 
-## Non-Profit Staff
+### Non-Profit Staff
 
 Finally, the culmination of a number of these anti-patterns - the idea
 that companies should "donate" to a non-profit organization like the
@@ -152,7 +152,7 @@ initiative, despite us being supportive of it - we have always
 invested in these projects directly, and think that is actually a
 healthier model for the future.
 
-# Think Strategically
+## Think Strategically
 
 Ok, so that's a bunch of anti-patterns ... what you generally
 shouldn't do. What should you do? Well, you need to think
@@ -160,7 +160,7 @@ strategically. You are choosing to have your business depend on
 something you don't control, but you should not allow yourself to feel
 powerless about how successful that choice will be.
 
-## The Future
+### The Future
 
 Think about the future, the long-term. Given the business choice you
 are making, for how long will your business success depend on the
@@ -174,7 +174,7 @@ focus on? Obviously, you wouldn't choose to depend on a project where
 there is a possibility of that happening, but the thought exercise
 does help you think about your priorities.
 
-## Influence
+### Influence
 
 If you are determined to ensure the success of the project, you'll
 have your own view of what that success looks like. Are you happy to
@@ -190,7 +190,7 @@ those two views. This is not a zero sum game. Almost always, you can
 find a solution that is good for both the project and Red Hat. Why
 would Red Hat want a solution that is harmful to the project?
 
-## Expertise
+### Expertise
 
 In order to be successful with any technology, you need to have access
 to expertise that understands the technology. There is no better
@@ -206,7 +206,7 @@ continue to be a significant proportion of their time. But you'd be
 amazed at how their presence on the team can help the whole team be
 successful.
 
-# Red Hat's Model
+## Red Hat's Model
 
 As somewhat of an aside, since this presentation is not a sales pitch,
 think about Red Hat's business model, and our proposition to our
@@ -216,7 +216,7 @@ by proxy, is safeguarding the future of the project, gaining a level
 of influence in the project, and has access to expertise relating to
 the project.
 
-# A Measurable Goal
+## A Measurable Goal
 
 Recently, on Red Hat's OpenStack team, and thanks to the influence of
 [Alexis Monville](http://alexis.monville.com/), we've been using the
@@ -228,7 +228,7 @@ measurable goal around our investment in upstream?”. What indicator
 could we use to know whether we were on the right track, and to ensure
 we’d stay on the right track?
 
-## Our Vision
+### Our Vision
 
 Our first thoughts on this was to look at data like our position in
 the contributor statistics, or the number of core contributors, PTLs,
@@ -247,7 +247,7 @@ this. Quite recently, Russell Bryant and Doug Hellmann hit on a
 promising solution. Survey the team with a small set of questions and
 use that sentiment of our measure of success with this goal.
 
-## The Questions
+### The Questions
 
 The questions that Russell and Doug developed are:
 
@@ -264,7 +264,7 @@ Notice one important aspect of this - we are asking individuals about
 the effectiveness of the investment their team is making
 upstream. That reflects the vision above.
 
-## The Results
+### The Results
 
 We only recently started running this survey, and we will do one every
 release cycle. So far, we’ve had over 70 responses, so that’s a pretty
@@ -280,7 +280,7 @@ balance? We’ve arbitrarily chosen 80% as our target, which means we
 feel pretty good about where we’re at, but there’s still opportunities
 for improvement.
 
-# Sustainability
+## Sustainability
 
 One thing I’m loving about my job these days is the direct exposure I
 have to Red Hat customers who are choosing to invest in

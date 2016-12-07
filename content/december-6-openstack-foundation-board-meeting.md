@@ -12,7 +12,7 @@ applies - this my informal recollection of the meeting. It’s not an
 official record. Jonathan Bryce has [posted an official summary of the
 meeting](http://lists.openstack.org/pipermail/foundation/2016-December/002443.html).
 
-# Executive Director Update - 2017 Budget
+## Executive Director Update - 2017 Budget
 
 After taking a roll call and approving minutes from two previous
 meetings, Jonathan gave a presentation on the 2017 Foundation budget.
@@ -61,7 +61,7 @@ Finance Committee to consider how to address this more
 structurally. Finally, the 2017 budget was approved by a vote of board
 members.
 
-# User Committee Proposal
+## User Committee Proposal
 
 Next up, Edgar Magana presented some [proposed by-laws changes around
 the structure of the User
@@ -74,7 +74,7 @@ were put to a vote after some short discussion. The board approved a
 motion to replace section 4.14 of the by-laws with the text above,
 along with adding a new UC member policy appendix.
 
-# OpenStack Futures
+## OpenStack Futures
 
 The board then turned its attention to a discussion started at the
 [previous board
@@ -124,7 +124,7 @@ projects and which can be completed in a single cycle.
 The discussion ended with the board agreeing to complete the 12
 questions prepared by Allison for an in-person meeting in Atlanta.
 
-# Gold Membership Expansion
+## Gold Membership Expansion
 
 The final topic of discussion was raised by Shane Wang. Now that the
 24 Gold Member slots have been filled, an obvious question remains
@@ -150,7 +150,7 @@ participation in the Foundation.
 All felt that this was an important topic that warranted further
 discussion and consideration.
 
-# Looking Ahead to 2017
+## Looking Ahead to 2017
 
 And so, the boards work for 2016 has come to an end. The [schedule of
 meetings for
