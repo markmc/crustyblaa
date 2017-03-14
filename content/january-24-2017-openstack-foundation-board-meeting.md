@@ -1,5 +1,5 @@
 Title: January 24th OpenStack Foundation Board Meeting
-Date: 207-01-27 11:00
+Date: 2017-01-27 11:00
 Author: markmc
 Tags: OpenStack, OpenStack Foundation Board Meeting
 Slug: january-24-openstack-foundation-board-meeting
