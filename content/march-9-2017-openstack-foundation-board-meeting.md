@@ -9,7 +9,7 @@ The OpenStack Foundation Board of Directors [met in-person for two
 days](https://wiki.openstack.org/wiki/Governance/Foundation/8Mar2017BoardMeeting)
 in Boston last week.
 
-The second day was a [strategic planning
+The first day was a [strategic planning
 workshop](https://crustyblaa.com/march-8-2017-openstack-foundation-strategic-planning-workshop.html)
 and the second day was a regular board meeting.
 
@@ -46,8 +46,8 @@ coverage](https://techcrunch.com/2017/02/22/openstacks-latest-release-focuses-on
 Jonathan briefly touched on key improvements in Ocata and information
 about the profile of our contributors. This resulted in some debate
 about the value of "vanity metrics" and there was general agreement
-that while there continues to be demand for this information but that
-we should all be cautious in over-emphasizing it.
+that while there continues to be demand for this information, we we
+should all be cautious in over-emphasizing it.
 
 Finally, Jonathan reflected on feedback from the Project Team
 Gathering in Atlanta. Attendance was strong and attendees reported
@@ -111,7 +111,7 @@ executive session, the board voted to approve H3C as a Gold member.
 
 One piece of good news wasn't public during the meeting, but has since
 been [announced by
-Jonathan}(http://lists.openstack.org/pipermail/foundation/2017-March/002477.html):
+Jonathan](http://lists.openstack.org/pipermail/foundation/2017-March/002477.html):
 
 > The Board also approved the promotion of Thierry Carrez to VP of
 > Engineering for the OpenStack Foundation. Thierry has been a leader
