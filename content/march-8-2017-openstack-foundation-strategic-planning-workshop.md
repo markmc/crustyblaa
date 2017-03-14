@@ -171,9 +171,9 @@ community.
 ### Gathering Ideas
 
 Over lunch, everyone wrote their concrete, actionable ideas for
-improvement on sticky notes and put them on (flipcharts for each of the
+improvement on sticky notes and put them on [flipcharts for each of the
 areas of
-discussion)[https://photos.google.com/share/AF1QipM10xRXuSCufsV8g8O60nnWgAW0n3yDteHqM1BPSgUfxNNZ6fZulsJ8BnYtcY5pNA?key=UEk5SXlaYlRSdllyYXZDVTlvN2EwR1NidjhjUGl3]. Later,
+discussion](https://photos.google.com/share/AF1QipM10xRXuSCufsV8g8O60nnWgAW0n3yDteHqM1BPSgUfxNNZ6fZulsJ8BnYtcY5pNA?key=UEk5SXlaYlRSdllyYXZDVTlvN2EwR1NidjhjUGl3). Later,
 Jonathan volunteered to group the ideas into themes, and summarized
 these themes for the group, facilitating further discussion before
 voting on which theme in each area we should particularly focus on.
