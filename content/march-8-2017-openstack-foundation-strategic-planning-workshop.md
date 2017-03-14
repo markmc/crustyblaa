@@ -244,8 +244,8 @@ theme:
 
 > Community Health: Grow next generation of
 > leadership/experts/cross-project devs within the community
-> Names: Steven Dake [lead], Chris Price, Jeremy Stanley, Dims,
 >
+> Names: Steven Dake [lead], Chris Price, Jeremy Stanley, Dims,
 > AlanClark, Joseph Wang
 
 ### Next Steps
