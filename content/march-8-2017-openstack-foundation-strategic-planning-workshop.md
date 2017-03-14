@@ -190,6 +190,7 @@ interested parties:
 > emerging versus mature, stability, adoption metrics, what works
 > together, services versus consumption (operational tools/client
 > libraries), and other criteria
+>
 > Names: Thierry Carrez [lead], Alan Clark, Allison Randal, Jon
 > Proulx, Melvin Hillsman, Lauren Sell, Tim Bell, Mark Baker, Kenji
 > Kaneshige
@@ -207,6 +208,7 @@ was:
 > Forum to collaborate/communicate aroud user stories, gap analysis,
 > what fits in the current state of tech, prioritize what would have
 > the greatest impact in reducing pain for users.
+>
 > Names: Melvin Hillsman [lead], Yih Leong Sun, Jon Proulx, Rob Esker,
 > Emilien Macchi, Doug Hellmann, Tim Bell, Shamail Tahir
 
@@ -220,6 +222,7 @@ focus on the consumability of OpenStack technologies:
 
 > Adjacent Technologies: Make our technology more consumable
 > (independently) by other communities/projects.
+>
 > Names: Chris Price [lead], Alan Clark, Dims, Rob Esker, Mark
 > Collier, Steven Dake, Mark McLoughlin, Shamail Tahir
 
@@ -230,6 +233,7 @@ competing projects. The theme we voted to focus on was:
 
 > Changes to the Technology: Workstream to simplify existing projects,
 > reduce dependency options, reduce config options.
+>
 > Names: Mike Perez [lead], --> TC project
 
 Finally, on the subject of community health, we talked about
@@ -241,6 +245,7 @@ theme:
 > Community Health: Grow next generation of
 > leadership/experts/cross-project devs within the community
 > Names: Steven Dake [lead], Chris Price, Jeremy Stanley, Dims,
+>
 > AlanClark, Joseph Wang
 
 ### Next Steps
