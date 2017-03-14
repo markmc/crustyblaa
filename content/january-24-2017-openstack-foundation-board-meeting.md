@@ -44,10 +44,12 @@ Alan also thanked our outgoing board members for their contributions:
 Since it's a new year, we took the opportunity to review the various
 policies which apply to board members:
 
-# [Antitrust policy](https://wiki.openstack.org/wiki/Governance/Foundation/AntitrustPolicy)
-# [Code of Conduct](https://wiki.openstack.org/wiki/Governance/Foundation/CodeOfConduct)
-# [Transparency policy](http://www.openstack.org/legal/transparency-policy/)
-# Board communication channels, including webex, foundation mailing list, foundation board open and confidential mailing lists, IRC, etherpad, and wiki.
+1. [Antitrust policy](https://wiki.openstack.org/wiki/Governance/Foundation/AntitrustPolicy)
+2. [Code of Conduct](https://wiki.openstack.org/wiki/Governance/Foundation/CodeOfConduct)
+3. [Transparency policy](http://www.openstack.org/legal/transparency-policy/)
+4. Board communication channels, including webex, foundation mailing
+... list, foundation board open and confidential mailing lists, IRC,
+... etherpad, and wiki.
 
 We also took the time to review the list of board committees and
 invite board members to volunteer to join these via [the
