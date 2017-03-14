@@ -1,4 +1,4 @@
-Title: March 9, 2017 OpenStack Foundation Strategic Planning Workshop
+Title: March 9, 2017 OpenStack Foundation Board Meeting
 Date: 2017-03-14 11:00
 Author: markmc
 Tags: OpenStack, OpenStack Foundation Board Meeting
