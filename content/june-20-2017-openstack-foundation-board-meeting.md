@@ -23,14 +23,14 @@ the board heard from Egle Sigler, Mark Voelker, and Chris Hoge of the
 [Interoperability Working
 Group](https://wiki.openstack.org/wiki/Governance/InteropWG).
 
-The topics of the discussion are laid out in (the working group's
+The topics of the discussion are laid out in [the working group's
 board
-report)[https://docs.google.com/document/d/1Ftw2tHn9l3oOlBhYMRrdVWcRfyk9tqGaTkfX3FVHdfo]
+report](https://docs.google.com/document/d/1Ftw2tHn9l3oOlBhYMRrdVWcRfyk9tqGaTkfX3FVHdfo)
 with Egle covering the upcoming 2017.08 guideline, Mark covering the
 proposal for extension programs, and Chris covering version 2.0 of the
 interop schema.
 
-The (extension programs proposal)[https://review.openstack.org/472785]
+The [extension programs proposal](https://review.openstack.org/472785)
 resulted in the most discussion. Mark described how the proposal
 explains how the OpenStack Powered trademark programs work today, the
 history of those programs, and how the additional programs would work.
@@ -76,8 +76,8 @@ for Canonical's Platinum member slot.
 Chris Price presented Ericsson's case for Platinum
 membership. Interestingly, this was the second time that Ericsson had
 applied for Platinum membership in the past year. The previous time,
-at (the March 9 board
-meeting)[https://crustyblaa.com/march-9-2017-openstack-foundation-board-meeting.html],
+at [the March 9 board
+meeting](https://crustyblaa.com/march-9-2017-openstack-foundation-board-meeting.html),
 Ericsson and Huawei applied for the slot left vacant by HPE. Huawei
 was successful with their application that time around.
 
