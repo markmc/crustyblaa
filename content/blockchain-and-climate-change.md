@@ -78,21 +78,20 @@ previous record, a timestamp, and the transaction data. This is a
 well-understood concept that is used to good effect in systems like
 the [Git Version Control System
 (VCS)](https://en.wikipedia.org/wiki/Git).
-3. [Peer-to-peer networks](https://en.wikipedia.org/wiki/Peer-to-peer)
-- this is allows you to build resilient storage by having peers in a
+3. [Peer-to-peer networks](https://en.wikipedia.org/wiki/Peer-to-peer) -
+this is allows you to build resilient storage by having peers in a
 network replicate data to other peers. Heard of Napster and
 Bittorrent?
 4. [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))
 mechanism - how can you authenticate and validate a transaction
 in a peer-to-peer network without appealing to a central authority?
 Take a look at the [Byzantine General's
-Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Byzantine_Generals'_Problem). It's
-difficult.
+Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Byzantine_Generals'_Problem). It's difficult.
 5. Sybil control mechanism - how do you protect against an actor in
 the system generating a large number of fake identities, known as a
 [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack). This too
 is hard. Bitcoin's answer is to make it prohibitively expense to abuse
-the system this way, with it's "Proof of Work" system known as mining.
+the system this way, with its "Proof of Work" system known as mining.
 
 The first three components - cryptography, hash trees, and
 peer-to-peer networks - are well established, and it would be possible
@@ -112,14 +111,14 @@ where all actors are known but untrusted. That does eliminate some of
 the difficult problems in this space, but catering for untrusted
 writers is where much of the complexity remains.*
 
-*Note - the report also references an excellent article called [The
-Truth About Smart Contracts by Jimmy
+*Note also - the report also references an excellent article called
+[The Truth About Smart Contracts by Jimmy
 Song](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f)
 which highlights the challenge with attempting to specify and enforce
 the rules of a contract using (potentially buggy) computer code
-without allowing for appeals to a central authority to interpret
-the "spirit" of the contract. And also the challenges of attempting to
-link such decentralized contracts with the physical world.
+without allowing for appeals to a central authority to interpret the
+"spirit" of the contract. And also the challenges of attempting to
+link such decentralized contracts with the physical world.*
 
 ## Blockchain Inefficiency
 
