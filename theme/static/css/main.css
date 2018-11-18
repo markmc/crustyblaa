@@ -26,16 +26,18 @@ time {
 }
 
 html {
-  font-size: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 body {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 16px;
-  line-height: 150%;
+  font-family: Georgia, Cambria, 'Times New Roman', serif;
+  font-weight: 400;
+  font-size: 21px;
+  font-style: normal;
+  line-height: 1.58;
+  letter-spacing: -.003em
+  color: rgba(0,0,0,.84);
   text-align: left;
-  color: #4D4D4C;
   padding: 0;
   min-width: 740px;
 }
@@ -120,7 +122,7 @@ header .pages a {
 /* Titles */
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Source Sans Pro",sans-serif;
+    font-family: Georgia, Cambria, 'Times New Roman', serif;
     font-weight: 400;
     text-shadow: 0.1em 0.1em 0.1em #EFEFEF;
     line-height: 125%;
