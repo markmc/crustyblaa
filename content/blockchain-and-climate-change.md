@@ -3,7 +3,7 @@ Date: 2018-11-18 11:00
 Author: markmc
 Tags: Climate Change
 Slug: blockchain-and-climate-change
-Status: draft
+Status: published
 
 *Disclaimer: Relative to my expertise in something like OpenStack, or
 relative to the expertise of folks who are working daily on driving
@@ -163,8 +163,22 @@ Climate Innovation Summit:
 > We have 12 years to set in place profound structural change in
 > almost every system of cause and effect in our society
 
-Are the problems associated with centralized systems truly on the
-critical path to effectively addressing the climate change challenge?
+Some of "Climate Action" use cases and examples for Blockchain listed
+in the Climate-KIC report includes:
+
+1. Energy - peer-to-peer energy trading
+1. Supply chain management - reduce paperwork, fraud, and errors
+1. Carbon trading - a more transparent carbon marketplace
+1. Transportation - decentralized ride sharing
+1. Open government - increased transparency and accountability in
+   government
+1. Measurement Reporting and Verification (MRV) - more transparency
+   in carbon tracking
+1. Finance - new ways of financing climate projects
+
+More or less implied here is that the problems associated with
+centralized systems are on the critical path to effectively addressing
+these use cases.
 
 The Climate-KIC report says:
 
