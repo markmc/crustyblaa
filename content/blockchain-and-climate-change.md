@@ -60,7 +60,7 @@ in the Climate-KIC report:
 > regulators, and police, along with the increase in bureaucracy,
 > risk, and stress that such institutions entail."
 
-Solving problems without needing needing any more lawyers? Hurrah!
+Solving problems without needing any more lawyers? Hurrah!
 
 ## Why is Decentralization a Hard Problem?
 
