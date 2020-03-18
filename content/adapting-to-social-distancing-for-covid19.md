@@ -1,8 +1,8 @@
-Title: Working Parents Adapting to Social Isolation for COVID-19
+Title: Working Parents Adapting to Social Distancing for COVID-19
 Date: 2020-03-17 20:00
 Author: markmc
 Tags: Personal
-Slug: adapting-to-social-isolation-for-covid19
+Slug: adapting-to-social-distancing-for-covid19
 Status: published
 
 I've seen all sorts of humor, tips, and ideas from folks as we all
