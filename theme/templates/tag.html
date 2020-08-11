@@ -1,14 +1,7 @@
-{% extends "base.html" %}
-{% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
-
-{% block content %}
-
-<h1>Post tagged: {{ tag }}</h1>
-
-{% for article in articles_page.object_list %}
-  {% include 'article_summary.inc.html' %}
-{% endfor %}
-
-{% include 'pagination.inc.html' %}
-
+{% extends "index.html" %}
+{% block title %}{{ SITENAME }} &mdash; Articles tagged {{ tag }}{% endblock %}
+{% block content_title %}
+<div class="page-title">
+	<h2>Tagged with <span>{{ tag }}</span> &hellip;</h2>
+</div>
 {% endblock %}
